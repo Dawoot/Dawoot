@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming overall, more specifically C/C++ programming it is really fun!
 - 🌱 I’m currently learning C/C++ more in depth by exploring various topics that i find interesting, specifically game making and embedded systems!
 - 📫 How to reach me: email me @ david.rosenqivst4@proton.me
-- Iam currently looking for a job as a junior programmer based in skåne, sweden or WFH!
+- Iam currently looking for a job as a junior programmer or other IT-related positions based in skåne sweden or a position where i can WFH!
