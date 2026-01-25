@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning C/C++ more in depth by exploring various topics that i find interesting, specifically game making and embedded systems!
 - 📫 How to reach me: email me @ david.rosenqivst4@proton.me
 - Iam currently looking for a job as a junior programmer or other IT-related positions based in skåne sweden or a position where i can WFH!
+- You should check out my most recent project: Pico-project-ML it is pinned on my page
