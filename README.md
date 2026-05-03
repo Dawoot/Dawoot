@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Dawoot also known as David Rosenqvist
-- 👀 I’m interested in programming overall, more specifically C/C++ programming it is really fun!
+- 👀 I’m interested in programming and technology!
 - 🌱 I’m currently learning C/C++ more in depth by exploring various topics that i find interesting, specifically game making and embedded systems!
+- Iam not limited to C/C++ i also enjoy python programming specifically for scripting and Machine learning.
+- I also enjoy Java and Java springboot for backend development.
+- Iam currently using Coursera to teach myself more topics in a wide array of different fields in the IT world such as support technician and Docker/Kubernetes.
 - 📫 How to reach me: email me @ david.rosenqivst4@proton.me
 - Iam currently looking for a job as a junior programmer or other IT-related positions based in skåne sweden or a position where i can WFH!
 - You should check out my most recent project: Pico-project-ML it is pinned on my page
