@@ -5,7 +5,7 @@ Skills
 
     Languages: C/C++, Python, Java
     Domains: Embedded systems, IoT, ML for edge, troubleshooting & support
-    Tools & Platforms: Linux (server & desktop), Docker, Git/GitHub, basic Kubernetes, SQL, Windows troubleshooting
+    Tools & Platforms: Linux (server, desktop & embedded), Docker, Git/GitHub, basic Kubernetes, SQL, Windows troubleshooting
 
 **Current work and projects**
 
